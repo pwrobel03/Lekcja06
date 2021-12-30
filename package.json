@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Piotr Wróbel 3I1a",
+  "license": "ISC",
+  "description": ""
+}
